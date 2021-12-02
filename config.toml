@@ -1,0 +1,25 @@
+baseURL = 'http://localhost:3000'
+languageCode = 'en-us'
+title = "words"
+theme = 'papermod'
+
+[params]
+
+  [params.buttons]
+  name = "f"
+  [params.showShareButtons]
+  showShareButtons = true
+
+  [params.homeInfoParams]
+  Title = "Hi, I'm Arsh 👋"
+  Content = """This is my blog, find my portfolio page [here](https://tiny.cc/arsh-projects).  
+  Hit me up on [Linkedin](https://www.linkedin.com/in/arsh-kohli-815b1b1b8/) if you'd like to get in touch.
+  """ 
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/arshxyz"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/arsh-kohli-815b1b1b8/"

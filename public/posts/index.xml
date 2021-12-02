@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on words</title>
+    <link>http://localhost:3000/posts/</link>
+    <description>Recent content in Posts on words</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 00:57:33 +0530</lastBuildDate><atom:link href="http://localhost:3000/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:3000/posts/second-post/</link>
+      <pubDate>Tue, 30 Nov 2021 00:57:33 +0530</pubDate>
+      
+      <guid>http://localhost:3000/posts/second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:3000/posts/my-first-post/</link>
+      <pubDate>Tue, 30 Nov 2021 00:35:34 +0530</pubDate>
+      
+      <guid>http://localhost:3000/posts/my-first-post/</guid>
+      <description>Ok this is great lmao
+markdown is cool af Markdown is life   ok and   and now for my next trick, a gist!
+ How about some colourful (code) candy?
+def fib(n): if (n == 0 or n == 1): return 1; else: return n*fib(n-1) </description>
+    </item>
+    
+  </channel>
+</rss>
